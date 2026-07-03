@@ -8,6 +8,7 @@ https://leetcode.com/u/sudeepchandra/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudeepchandra2007/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sudeepchandra2007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,8 @@ https://leetcode.com/u/sudeepchandra/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sudeepchandra2007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
