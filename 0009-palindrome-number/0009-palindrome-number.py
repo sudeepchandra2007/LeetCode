@@ -1,9 +1,5 @@
 class Solution(object):
     def isPalindrome(self, x):
-        """
-        :type x: int
-        :rtype: bool
-        """
         inp=str(x)
         mid=len(inp)/2
         ret=True
