@@ -12,4 +12,8 @@ https://leetcode.com/u/sudeepchandra/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudeepchandra2007/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
