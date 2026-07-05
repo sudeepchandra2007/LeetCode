@@ -19,6 +19,7 @@ https://leetcode.com/u/sudeepchandra/
 | ------- |
 | [0009-palindrome-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sudeepchandra2007/LeetCode/tree/master/0069-sqrtx) |
+| [0326-power-of-three](https://github.com/sudeepchandra2007/LeetCode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,8 @@ https://leetcode.com/u/sudeepchandra/
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sudeepchandra2007/LeetCode/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sudeepchandra2007/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
