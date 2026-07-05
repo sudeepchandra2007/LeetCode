@@ -6,8 +6,9 @@ class Solution(object):
         """
         if n>0 :
             for i in range(0,100) :
-                if n==pow(3,i) :
+                j=pow(3,i)
+                if n==j :
                     return True
-                elif n<pow(3,i) :
+                elif n<j :
                     return False
         return False
