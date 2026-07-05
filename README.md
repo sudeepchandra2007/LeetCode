@@ -18,9 +18,14 @@ https://leetcode.com/u/sudeepchandra/
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/sudeepchandra2007/LeetCode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudeepchandra2007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sudeepchandra2007/LeetCode/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sudeepchandra2007/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
