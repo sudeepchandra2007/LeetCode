@@ -24,8 +24,13 @@ https://leetcode.com/u/sudeepchandra/
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudeepchandra2007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sudeepchandra2007/LeetCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/sudeepchandra2007/LeetCode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sudeepchandra2007/LeetCode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sudeepchandra2007/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
