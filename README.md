@@ -1,5 +1,7 @@
 # LeetCode
 A collection of LeetCode questions that i solved with my answers
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/sudeepchandra)   
 # Profile
 https://leetcode.com/u/sudeepchandra/
 <!---LeetCode Topics Start-->
