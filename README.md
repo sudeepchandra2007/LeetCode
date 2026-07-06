@@ -23,6 +23,7 @@ https://leetcode.com/u/sudeepchandra/
 | [0009-palindrome-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sudeepchandra2007/LeetCode/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/sudeepchandra2007/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sudeepchandra2007/LeetCode/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,8 +43,10 @@ https://leetcode.com/u/sudeepchandra/
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/sudeepchandra2007/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sudeepchandra2007/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/sudeepchandra2007/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
