@@ -24,6 +24,7 @@ https://leetcode.com/u/sudeepchandra/
 | [0069-sqrtx](https://github.com/sudeepchandra2007/LeetCode/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/sudeepchandra2007/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sudeepchandra2007/LeetCode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/sudeepchandra2007/LeetCode/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ https://leetcode.com/u/sudeepchandra/
 | ------- |
 | [0125-valid-palindrome](https://github.com/sudeepchandra2007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sudeepchandra2007/LeetCode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/sudeepchandra2007/LeetCode/tree/master/0415-add-strings) |
 | [3798-largest-even-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/3798-largest-even-number) |
 ## Recursion
 |  |
@@ -51,4 +53,8 @@ https://leetcode.com/u/sudeepchandra/
 | ------- |
 | [0136-single-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/sudeepchandra2007/LeetCode/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/sudeepchandra2007/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
