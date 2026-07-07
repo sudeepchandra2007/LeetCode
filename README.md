@@ -13,10 +13,12 @@ https://leetcode.com/u/sudeepchandra/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudeepchandra2007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sudeepchandra2007/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0136-single-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sudeepchandra2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudeepchandra2007/LeetCode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/sudeepchandra2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -34,10 +36,12 @@ https://leetcode.com/u/sudeepchandra/
 | [0027-remove-element](https://github.com/sudeepchandra2007/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sudeepchandra2007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sudeepchandra2007/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sudeepchandra2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sudeepchandra2007/LeetCode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/sudeepchandra2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -73,4 +77,8 @@ https://leetcode.com/u/sudeepchandra/
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sudeepchandra2007/LeetCode/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sudeepchandra2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
