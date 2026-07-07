@@ -22,6 +22,7 @@ https://leetcode.com/u/sudeepchandra/
 | ------- |
 | [0009-palindrome-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sudeepchandra2007/LeetCode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/sudeepchandra2007/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sudeepchandra2007/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sudeepchandra2007/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/sudeepchandra2007/LeetCode/tree/master/0415-add-strings) |
@@ -58,6 +59,7 @@ https://leetcode.com/u/sudeepchandra/
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sudeepchandra2007/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sudeepchandra2007/LeetCode/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
@@ -67,4 +69,8 @@ https://leetcode.com/u/sudeepchandra/
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sudeepchandra2007/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
