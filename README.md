@@ -19,6 +19,7 @@ https://leetcode.com/u/sudeepchandra/
 | ------- |
 | [0001-two-sum](https://github.com/sudeepchandra2007/LeetCode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sudeepchandra2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/sudeepchandra2007/LeetCode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ https://leetcode.com/u/sudeepchandra/
 | ------- |
 | [0125-valid-palindrome](https://github.com/sudeepchandra2007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sudeepchandra2007/LeetCode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sudeepchandra2007/LeetCode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/sudeepchandra2007/LeetCode/tree/master/0415-add-strings) |
 | [3798-largest-even-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/3798-largest-even-number) |
 ## Recursion
@@ -60,6 +62,7 @@ https://leetcode.com/u/sudeepchandra/
 | ------- |
 | [0136-single-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/sudeepchandra2007/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/sudeepchandra2007/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -81,4 +84,5 @@ https://leetcode.com/u/sudeepchandra/
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sudeepchandra2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/sudeepchandra2007/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
