@@ -13,11 +13,13 @@ https://leetcode.com/u/sudeepchandra/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudeepchandra2007/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sudeepchandra2007/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/sudeepchandra2007/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/sudeepchandra2007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sudeepchandra2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudeepchandra2007/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sudeepchandra2007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sudeepchandra2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sudeepchandra2007/LeetCode/tree/master/0389-find-the-difference) |
 ## Math
@@ -83,6 +85,7 @@ https://leetcode.com/u/sudeepchandra/
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sudeepchandra2007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sudeepchandra2007/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sudeepchandra2007/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
